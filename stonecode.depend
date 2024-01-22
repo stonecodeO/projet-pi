@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1705320369 source:c:\users\ich\desktop\pi\projet_ing1\stonecode\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1705319788 c:\users\ich\desktop\pi\projet_ing1\stonecode\menu.h
+
+1705320378 source:c:\users\ich\desktop\pi\projet_ing1\stonecode\menu.c
+	<stdio.h>
+	"menu.h"
+
